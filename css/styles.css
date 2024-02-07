@@ -58,6 +58,7 @@
 
 .sticky-footer
 {
+
     background-color: #f8f9fa;
     width:100%;
     position: absolute;
@@ -69,7 +70,12 @@
 
 .footer-div
 {
+
     margin-left: 12px;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
 
